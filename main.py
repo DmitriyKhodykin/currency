@@ -61,7 +61,7 @@ class Currency:
         """Sending mail alert about extremely changes currency"""
 
         # ==================== Account ======================
-
+        # Need to create environment variables
         addr_from = os.environ.get('WORK_EMAIL')
         password = os.environ.get('WORK_EMAIL_PASS')
         addr_to = os.environ.get('MY_EMAIL')
