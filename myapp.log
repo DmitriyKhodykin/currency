@@ -1,0 +1,69 @@
+2020-08-21 15:47:56,865 DEBUG:Starting new HTTPS connection (1): query1.finance.yahoo.com:443
+2020-08-21 15:47:57,105 DEBUG:https://query1.finance.yahoo.com:443 "GET /v8/finance/chart/USDRUB=X?period1=7223400&period2=1598888876&interval=1d&events=div%2Csplits HTTP/1.1" 200 None
+2020-08-21 16:21:27,236 DEBUG:Starting new HTTP connection (1): httpbin.org:80
+2020-08-21 16:21:27,497 DEBUG:http://httpbin.org:80 "GET /ip HTTP/1.1" 200 33
+2020-08-21 16:21:27,500 DEBUG:Starting new HTTP connection (1): httpbin.org:80
+2020-08-21 16:21:28,690 DEBUG:http://httpbin.org:80 "GET /ip HTTP/1.1" 200 33
+2020-08-21 16:21:28,695 DEBUG:Starting new HTTPS connection (1): www.google.com:443
+2020-08-21 16:21:30,448 DEBUG:https://www.google.com:443 "GET /search?q=%D0%B4%D0%BE%D0%BB%D0%BB%D0%B0%D1%80+%D0%BA+%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%D1%80%D1%83%D0%B1%D0%BB%D1%8E&rlz=1C1GCEU_ruRU867RU867&oq=%D0%B4%D0%BE%D0%BB%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%D0%BB%D0%B0%D1%80+%D0%BA+%D1%80%D1%83%D0%B1%D0%BB&aqs=chrome.0.0j69i57j0l6.2337j0j7&%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20sourceid=chrome&ie=UTF-8 HTTP/1.1" 200 None
+2020-08-21 16:21:32,645 DEBUG:utf-8  confidence = 0.99
+2020-08-21 16:21:32,645 DEBUG:SHIFT_JIS Japanese confidence = 0.01
+2020-08-21 16:21:32,645 DEBUG:EUC-JP Japanese confidence = 0.01
+2020-08-21 16:21:32,645 DEBUG:GB2312 Chinese confidence = 0.01
+2020-08-21 16:21:32,645 DEBUG:EUC-KR Korean confidence = 0.01
+2020-08-21 16:21:32,645 DEBUG:CP949 Korean confidence = 0.01
+2020-08-21 16:21:32,645 DEBUG:Big5 Chinese confidence = 0.01
+2020-08-21 16:21:32,645 DEBUG:EUC-TW Taiwan confidence = 0.01
+2020-08-21 16:21:32,645 DEBUG:windows-1251 Russian confidence = 0.01
+2020-08-21 16:21:32,645 DEBUG:KOI8-R Russian confidence = 0.01
+2020-08-21 16:21:32,645 DEBUG:ISO-8859-5 Russian confidence = 0.06471628125317305
+2020-08-21 16:21:32,645 DEBUG:MacCyrillic Russian confidence = 0.0
+2020-08-21 16:21:32,645 DEBUG:IBM866 Russian confidence = 0.0
+2020-08-21 16:21:32,645 DEBUG:IBM855 Russian confidence = 0.05198637484363317
+2020-08-21 16:21:32,645 DEBUG:ISO-8859-7 Greek confidence = 0.0
+2020-08-21 16:21:32,645 DEBUG:windows-1253 Greek confidence = 0.0
+2020-08-21 16:21:32,645 DEBUG:ISO-8859-5 Bulgairan confidence = 0.09972047537627526
+2020-08-21 16:21:32,645 DEBUG:windows-1251 Bulgarian confidence = 0.0
+2020-08-21 16:21:32,645 DEBUG:TIS-620 Thai confidence = 0.1910433826590363
+2020-08-21 16:21:32,645 DEBUG:ISO-8859-9 Turkish confidence = 0.42582182884687975
+2020-08-21 16:21:32,645 DEBUG:windows-1255 Hebrew confidence = 0.0
+2020-08-21 16:21:32,645 DEBUG:windows-1255 Hebrew confidence = 0.0
+2020-08-21 16:21:32,646 DEBUG:windows-1255 Hebrew confidence = 0.0
+2020-08-21 16:21:32,646 DEBUG:utf-8  confidence = 0.99
+2020-08-21 16:21:32,646 DEBUG:SHIFT_JIS Japanese confidence = 0.01
+2020-08-21 16:21:32,646 DEBUG:EUC-JP Japanese confidence = 0.01
+2020-08-21 16:21:32,646 DEBUG:GB2312 Chinese confidence = 0.01
+2020-08-21 16:21:32,646 DEBUG:EUC-KR Korean confidence = 0.01
+2020-08-21 16:21:32,646 DEBUG:CP949 Korean confidence = 0.01
+2020-08-21 16:21:32,646 DEBUG:Big5 Chinese confidence = 0.01
+2020-08-21 16:21:32,646 DEBUG:EUC-TW Taiwan confidence = 0.01
+2020-08-21 16:37:47,067 DEBUG:Starting new HTTPS connection (1): query1.finance.yahoo.com:443
+2020-08-21 16:37:47,307 DEBUG:https://query1.finance.yahoo.com:443 "GET /v8/finance/chart/USDRUB=X?period1=7223400&period2=1598891867&interval=1d&events=div%2Csplits HTTP/1.1" 200 None
+2020-08-21 22:37:47,786 DEBUG:Starting new HTTPS connection (1): query1.finance.yahoo.com:443
+2020-08-21 22:37:48,044 DEBUG:https://query1.finance.yahoo.com:443 "GET /v8/finance/chart/USDRUB=X?period1=7223400&period2=1598913467&interval=1d&events=div%2Csplits HTTP/1.1" 200 None
+2020-08-22 04:37:48,900 DEBUG:Starting new HTTPS connection (1): query1.finance.yahoo.com:443
+2020-08-22 04:37:49,578 DEBUG:https://query1.finance.yahoo.com:443 "GET /v8/finance/chart/USDRUB=X?period1=7223400&period2=1598935068&interval=1d&events=div%2Csplits HTTP/1.1" 200 None
+2020-08-22 09:21:53,942 DEBUG:Starting new HTTPS connection (1): query1.finance.yahoo.com:443
+2020-08-22 09:21:54,608 DEBUG:https://query1.finance.yahoo.com:443 "GET /v8/finance/chart/USDRUB=X?period1=7223400&period2=1598952113&interval=1d&events=div%2Csplits HTTP/1.1" 200 None
+2020-08-22 10:17:53,622 DEBUG:Starting new HTTPS connection (1): query1.finance.yahoo.com:443
+2020-08-22 10:17:54,320 DEBUG:https://query1.finance.yahoo.com:443 "GET /v8/finance/chart/USDRUB=X?period1=7223400&period2=1598955473&interval=1d&events=div%2Csplits HTTP/1.1" 200 None
+2020-08-22 10:31:20,556 DEBUG:Starting new HTTPS connection (1): query1.finance.yahoo.com:443
+2020-08-22 10:31:21,228 DEBUG:https://query1.finance.yahoo.com:443 "GET /v8/finance/chart/USDRUB=X?period1=7223400&period2=1598956280&interval=1d&events=div%2Csplits HTTP/1.1" 200 None
+2020-08-22 10:34:37,979 DEBUG:Starting new HTTPS connection (1): query1.finance.yahoo.com:443
+2020-08-22 10:34:38,644 DEBUG:https://query1.finance.yahoo.com:443 "GET /v8/finance/chart/USDRUB=X?period1=7223400&period2=1598956477&interval=1d&events=div%2Csplits HTTP/1.1" 200 None
+2020-08-22 10:36:50,350 DEBUG:Starting new HTTPS connection (1): query1.finance.yahoo.com:443
+2020-08-22 10:36:51,075 DEBUG:https://query1.finance.yahoo.com:443 "GET /v8/finance/chart/USDRUB=X?period1=7223400&period2=1598956610&interval=1d&events=div%2Csplits HTTP/1.1" 200 None
+2020-08-22 10:37:36,706 DEBUG:Starting new HTTPS connection (1): query1.finance.yahoo.com:443
+2020-08-22 10:37:37,371 DEBUG:https://query1.finance.yahoo.com:443 "GET /v8/finance/chart/USDRUB=X?period1=7223400&period2=1598956656&interval=1d&events=div%2Csplits HTTP/1.1" 200 None
+2020-08-22 10:39:42,916 DEBUG:Starting new HTTPS connection (1): query1.finance.yahoo.com:443
+2020-08-22 10:39:43,656 DEBUG:https://query1.finance.yahoo.com:443 "GET /v8/finance/chart/USDRUB=X?period1=7223400&period2=1598956782&interval=1d&events=div%2Csplits HTTP/1.1" 200 None
+2020-08-22 10:40:12,366 DEBUG:Starting new HTTPS connection (1): query1.finance.yahoo.com:443
+2020-08-22 10:40:13,010 DEBUG:https://query1.finance.yahoo.com:443 "GET /v8/finance/chart/USDRUB=X?period1=7223400&period2=1598956812&interval=1d&events=div%2Csplits HTTP/1.1" 200 None
+2020-08-22 10:40:55,189 DEBUG:Starting new HTTPS connection (1): query1.finance.yahoo.com:443
+2020-08-22 10:40:55,855 DEBUG:https://query1.finance.yahoo.com:443 "GET /v8/finance/chart/USDRUB=X?period1=7223400&period2=1598956855&interval=1d&events=div%2Csplits HTTP/1.1" 200 None
+2020-08-22 10:41:47,802 DEBUG:Starting new HTTPS connection (1): query1.finance.yahoo.com:443
+2020-08-22 10:41:48,473 DEBUG:https://query1.finance.yahoo.com:443 "GET /v8/finance/chart/USDRUB=X?period1=7223400&period2=1598956907&interval=1d&events=div%2Csplits HTTP/1.1" 200 None
+2020-08-22 11:38:55,021 DEBUG:Starting new HTTPS connection (1): query1.finance.yahoo.com:443
+2020-08-22 11:38:55,692 DEBUG:https://query1.finance.yahoo.com:443 "GET /v8/finance/chart/USDRUB=X?period1=7223400&period2=1598960335&interval=1d&events=div%2Csplits HTTP/1.1" 200 None
+2020-08-22 11:46:56,889 DEBUG:Starting new HTTPS connection (1): query1.finance.yahoo.com:443
+2020-08-22 11:46:57,552 DEBUG:https://query1.finance.yahoo.com:443 "GET /v8/finance/chart/USDRUB=X?period1=7223400&period2=1598960816&interval=1d&events=div%2Csplits HTTP/1.1" 200 None
