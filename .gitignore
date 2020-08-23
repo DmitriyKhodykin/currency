@@ -1,0 +1,8 @@
+# Environment
+/env
+
+# Data Base
+*.csv
+
+# Logs
+*.log

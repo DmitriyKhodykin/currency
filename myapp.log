@@ -67,3 +67,9 @@
 2020-08-22 11:38:55,692 DEBUG:https://query1.finance.yahoo.com:443 "GET /v8/finance/chart/USDRUB=X?period1=7223400&period2=1598960335&interval=1d&events=div%2Csplits HTTP/1.1" 200 None
 2020-08-22 11:46:56,889 DEBUG:Starting new HTTPS connection (1): query1.finance.yahoo.com:443
 2020-08-22 11:46:57,552 DEBUG:https://query1.finance.yahoo.com:443 "GET /v8/finance/chart/USDRUB=X?period1=7223400&period2=1598960816&interval=1d&events=div%2Csplits HTTP/1.1" 200 None
+2020-08-22 17:46:58,044 DEBUG:Starting new HTTPS connection (1): query1.finance.yahoo.com:443
+2020-08-22 17:46:58,533 DEBUG:https://query1.finance.yahoo.com:443 "GET /v8/finance/chart/USDRUB=X?period1=7223400&period2=1598982418&interval=1d&events=div%2Csplits HTTP/1.1" 200 None
+2020-08-22 23:46:58,913 DEBUG:Starting new HTTPS connection (1): query1.finance.yahoo.com:443
+2020-08-22 23:46:59,425 DEBUG:https://query1.finance.yahoo.com:443 "GET /v8/finance/chart/USDRUB=X?period1=7223400&period2=1599004018&interval=1d&events=div%2Csplits HTTP/1.1" 200 None
+2020-08-23 05:46:59,835 DEBUG:Starting new HTTPS connection (1): query1.finance.yahoo.com:443
+2020-08-23 05:47:00,321 DEBUG:https://query1.finance.yahoo.com:443 "GET /v8/finance/chart/USDRUB=X?period1=7223400&period2=1599025619&interval=1d&events=div%2Csplits HTTP/1.1" 200 None
